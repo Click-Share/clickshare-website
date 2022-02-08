@@ -1,5 +1,5 @@
 # ClickShare Website
-This repo houses the code for [ClickShare's website](https://clickshare.one)
+This repo houses the code for ClickShare's website, [clickshare.one](https://clickshare.one)
 
 # Install the ClickShare Chrome Extension
 
