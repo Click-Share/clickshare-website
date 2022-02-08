@@ -1,5 +1,5 @@
-# TartanHacks-2022
-Project for TartanHacks 2022
+# ClickShare Website
+This repo houses the code for [ClickShare's website](https://clickshare.one)
 
 # Install the ClickShare Chrome Extension
 
